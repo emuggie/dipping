@@ -3,7 +3,7 @@ package impl
 import (
 	. "log"
 
-	def "github.com/emuggie/dipping/src/package/log"
+	def "github.com/emuggie/dipping/package/log"
 )
 
 type delegator struct {

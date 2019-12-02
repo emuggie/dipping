@@ -4,7 +4,7 @@ import (
 	. "strings"
 	"unicode"
 
-	def "github.com/emuggie/dipping/src/package/strings"
+	def "github.com/emuggie/dipping/package/strings"
 )
 
 type delegator struct {
